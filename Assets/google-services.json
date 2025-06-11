@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "101926403123",
+    "firebase_url": "https://tarl-p-and-n-numbers-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tarl-p-and-n-numbers",
+    "storage_bucket": "tarl-p-and-n-numbers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101926403123:android:96f895fbc7184a42bcb746",
+        "android_client_info": {
+          "package_name": "com.uae.PandNNumbers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4douvxpa1nA_mbTEE5Aa3KIjklxuumuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
