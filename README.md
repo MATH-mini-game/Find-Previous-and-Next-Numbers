@@ -1,1 +1,1 @@
-Due to file size restriction, some files from the Firebase folder were not pushed into this repo, so we recomand you to download the Firebase SDK from the officiel webset when setting it up the project in your machine.
+Due to file size restriction, some files from the Firebase folder were not pushed into this repo, so we recomand you to download the Firebase SDK from the officiel webset when setting up the project in your machine.
